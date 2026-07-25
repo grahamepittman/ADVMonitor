@@ -1,15 +1,15 @@
 {
   "elliott": {
     "headers": {
-      "content_length": "9504058",
+      "content_length": "9550251",
       "content_type": "application/octet-stream",
-      "etag": "\"23bfbb76d400c73d8570c3d9710028a0\"",
+      "etag": "\"40804a783519f40236be04ab0370bce9\"",
       "final_url": "https://reports.adviserinfo.sec.gov/reports/ADV/307151/PDF/307151.pdf",
-      "last_modified": "Wed, 20 May 2026 09:10:28 GMT",
+      "last_modified": "Sat, 25 Jul 2026 09:13:36 GMT",
       "status_code": 200
     },
-    "last_checked_utc": "2026-07-24T14:18:23.902589+00:00",
+    "last_checked_utc": "2026-07-25T14:07:30.495519+00:00",
     "pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/307151/PDF/307151.pdf",
-    "sig": "\"23bfbb76d400c73d8570c3d9710028a0\""
+    "sig": "\"40804a783519f40236be04ab0370bce9\""
   }
 }
